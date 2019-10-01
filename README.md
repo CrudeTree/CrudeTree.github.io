@@ -12,4 +12,4 @@
 
 ## Links
 
-* [LinkedIn](www.linkedin.com/in/james-larivee)
+* [LinkedIn](https://www.linkedin.com/in/james-larivee/)
