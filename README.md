@@ -1,5 +1,3 @@
-# James Larivee
-
 ## Career Objectives
 
 ## Current Projects
