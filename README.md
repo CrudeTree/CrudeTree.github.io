@@ -13,7 +13,7 @@ at University of New Mexico in Albuquerque, NM. I slowly discovered my passion w
 apps that I can use to enhance my life. So I attended a coding bootcamp in Albuquerque called DeepDive 
 Coding Bootcamp where I studied how to make programs and apps like the pros. 
 
-%## Employment
+
 
 ## Links
 
